@@ -14,14 +14,14 @@
     // var qualifications = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M. Phil.", "PhD"];
     
     // document.write("Qualifications:<br>");
-    // document.write(qualifications[0] + "<br>");
-    // document.write(qualifications[1] + "<br>");
-    // document.write(qualifications[2] + "<br>");
-    // document.write(qualifications[3] + "<br>");
-    // document.write(qualifications[4] + "<br>");
-    // document.write(qualifications[5] + "<br>");
-    // document.write(qualifications[6] + "<br>");
-    // document.write(qualifications[7] + "<br>");
+    // document.write('1)' + qualifications[0] + "<br>");
+    // document.write('2)' + qualifications[1] + "<br>");
+    // document.write('3)' + qualifications[2] + "<br>");
+    // document.write('4)' + qualifications[3] + "<br>");
+    // document.write('5)' + qualifications[4] + "<br>");
+    // document.write('6)' + qualifications[5] + "<br>");
+    // document.write('7)' + qualifications[6] + "<br>");
+    // document.write('8)' + qualifications[7] + "<br>");
 //--------------------Q 08-----------------------
     // const studentNames = ['Michael', 'John', 'Tony'];
     // const scores = [320, 450, 390];
@@ -101,13 +101,15 @@
     // fifoArray.push("Value 2");
     // fifoArray.push("Value 3");
 
+    // document.write('Array: ', fifoArray);
+
     // var firstValue = fifoArray.shift();
     // var secondValue = fifoArray.shift();
     // var thirdValue = fifoArray.shift();
 
-    // console.log("First value:", firstValue);
-    // console.log("Second value:", secondValue);
-    // console.log("Third value:", thirdValue);
+    // document.write("<br><br>First value:", firstValue);
+    // document.write("<br>Second value:", secondValue);
+    // document.write("<br>Third value:", thirdValue);
 
 //--------------------Q 14-----------------------
     // var lifoArray = [];

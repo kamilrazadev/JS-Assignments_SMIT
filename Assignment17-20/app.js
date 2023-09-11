@@ -21,7 +21,7 @@
     // var fruits = ["apple", "banana", "mango", "orange","strawberry"];
 
     // for(var i=0; i<fruits.length; i++){
-    //     console.log(fruits[i])
+    //     console.log('Element at index ', i ,' is ', fruits[i])
     // }
 //---------------------Q 06------------------
     // var counting = ""

@@ -24,7 +24,7 @@
     // }
 //---------------------- Q 04 ------------------- 
     // var fuel = +prompt("Enter Remaining Fuel in your Car in liters");
-    // if(fuel<=0.25){
+    // if(fuel < 0.25){
     //     alert("Please refill the fuel in your car");
     // }
 //---------------------- Q 05 ------------------- 
